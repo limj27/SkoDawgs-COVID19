@@ -4,7 +4,7 @@ class Colten extends Component {
   render() {
 
     return (
-      <section id="ourteam">
+      <section id="about">
         <div className="row">
           <div className="three columns">
             <img className="profile-pic" src="images/c.png" alt="Nordic Giant Profile Pic" />
