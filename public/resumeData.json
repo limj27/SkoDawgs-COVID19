@@ -2,7 +2,10 @@
   "main": {
     "name":"COVID-19 Data Standard",
     "description":"Research and recommendation on COVID-19 data reporting created in partnership with Georgetown University's Beeck Center",
-    "image":"ischool.png",
+    "image1":"c.png",
+    "image2":"j.jpg",
+    "image3":"l.JPG",
+    "image4":"s.png",
     "bio":"Our team name is Sko-Dawgs, Colten Woo, Justin Lim, Savannah Umali-Jepson, and Lufei Wang. We are all undergraduates from the University of Washington Information School. Our sponsor is Sarah Schacht who is a data + digital fellow at Georgetown University Beeck Center.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Colten: coltenw@uw.edu",
