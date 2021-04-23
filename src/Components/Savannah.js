@@ -4,7 +4,7 @@ class Savannah extends Component {
   render() {
 
     return (
-      <section id="about">
+      <section id="ourteam">
         <div className="row">
           <div className="three columns">
             <img className="profile-pic" src="images/s.png" alt="Nordic Giant Profile Pic" />

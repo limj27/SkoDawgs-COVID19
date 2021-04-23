@@ -40,6 +40,12 @@ class Header extends Component {
                 Our Process
               </a>
             </li>
+
+            <li>
+              <a className="smoothscroll" href="#ourteam">
+                Our Team
+              </a>
+            </li>
           </ul>
         </nav>
 
