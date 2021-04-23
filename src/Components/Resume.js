@@ -104,7 +104,7 @@ class Resume extends Component {
 
           <div className="nine columns main-col">
             <div className="row item">
-              <video src="images/zoom_1.mov" autoPlay="true"/>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VXetmi7s3Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
         </div>
