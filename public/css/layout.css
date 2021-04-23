@@ -226,6 +226,50 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 
+#ourteam {
+   background: #000524;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#ourteam a, #ourteam a:visited  { color: #fff; }
+#ourteam a:hover, #ourteam a:focus { color: #0762f9; }
+
+#ourteam h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#ourteam p {
+   line-height: 30px;
+   color: #ccc;
+}
+#ourteam .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#ourteam .contact-details { width: 41.66667%; }
+#ourteam .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#ourteam .main-col { padding-right: 5%; }
+#ourteam .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#ourteam .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#ourteam .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
