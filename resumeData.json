@@ -1,17 +1,17 @@
 {
   "main": {
     "name":"COVID-19 Data Standard",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Research and recommendation on COVID-19 data reporting created in partnership with Georgetown University's Beeck Center",
     "image":"ischool.png",
     "bio":"Our team name is Sko-Dawgs, Colten Woo, Justin Lim, Savannah Umali-Jepson, and Lufei Wang. We are all undergraduates from the University of Washington Information School. Our sponsor is Sarah Schacht who is a data + digital fellow at Georgetown University Beeck Center.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Colten: coltenw@uw.edu",
     "email1": "Justin: limj27@uw.edu", 
-    "email2": "Lufei: maggiewang9903@gmail.com", 
+    "email2": "Lufei: lufeiw@uw.edu", 
     "email3": "Savannah: scuj@uw.edu",
     "phone": "555-555-5555",
-    "github":"https://beeckcenter.georgetown.edu/data-digital/",
-    "project":"https://public.tableau.com/profile/lufei.wang8858#!/vizhome/UpdatedCovidDataVisualization/Story1",
+    "project":"https://beeckcenter.georgetown.edu/data-digital/",
+    "github":"https://public.tableau.com/profile/lufei.wang8858#!/vizhome/UpdatedCovidDataVisualization/Story1",
     "website": "http://www.timbakerdev.com",
     "resumedownload":"https://beeckcenter.georgetown.edu/person/sarah-schacht/",
     "social":[
