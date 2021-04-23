@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SkoDawgs-COVID19/static/css/main.bab0b925.chunk.css",
-    "main.js": "/SkoDawgs-COVID19/static/js/main.bcb85b1d.chunk.js",
-    "main.js.map": "/SkoDawgs-COVID19/static/js/main.bcb85b1d.chunk.js.map",
+    "main.js": "/SkoDawgs-COVID19/static/js/main.887a5c1b.chunk.js",
+    "main.js.map": "/SkoDawgs-COVID19/static/js/main.887a5c1b.chunk.js.map",
     "runtime-main.js": "/SkoDawgs-COVID19/static/js/runtime-main.7a1c9748.js",
     "runtime-main.js.map": "/SkoDawgs-COVID19/static/js/runtime-main.7a1c9748.js.map",
     "static/js/2.55f645b8.chunk.js": "/SkoDawgs-COVID19/static/js/2.55f645b8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7a1c9748.js",
     "static/js/2.55f645b8.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.bcb85b1d.chunk.js"
+    "static/js/main.887a5c1b.chunk.js"
   ]
 }
