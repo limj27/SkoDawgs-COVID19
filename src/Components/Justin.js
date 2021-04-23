@@ -4,7 +4,7 @@ class Justin extends Component {
   render() {
 
     return (
-      <section id="ourteam">
+      <section id="about">
         <div className="row">
           <div className="three columns">
             <img className="profile-pic" src="images/j.jpg" alt="Nordic Giant Profile Pic" />
