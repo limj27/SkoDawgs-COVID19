@@ -53,7 +53,7 @@ class Header extends Component {
                 <i className="fa fa-book"></i>Research Summary
               </a>
               <a href={github} className="button btn github-btn">
-                <i className="fa fa-tableau"></i>Tableau
+                <i className="fa fa-book"></i>Tableau
               </a>
             </ul>
           </div>
