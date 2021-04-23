@@ -48,6 +48,7 @@ class App extends Component {
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
         <Colten />
+        <About data={this.state.resumeData.main} />
         <Footer data={this.state.resumeData.main} />
       </div>
     );
