@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name":"COVID-19 Data Standard",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"ischool.png",
+    "bio":"Our team name is Sko-Dawgs, Colten Woo, Justin Lim, Savannah Umali-Jepson, and Lufei Wang. We are all undergraduates from the University of Washington Information School. Our sponsor is Sarah Schacht who is a data + digital fellow at Georgetown University Beeck Center.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Colten: coltenw@uw.edu",
+    "email1": "Justin: limj27@uw.edu", 
+    "email2": "Lufei: maggiewang9903@gmail.com", 
+    "email3": "Savannah: scuj@uw.edu",
+    "phone": "555-555-5555",
+    "github":"https://beeckcenter.georgetown.edu/data-digital/",
+    "project":"https://public.tableau.com/profile/lufei.wang8858#!/vizhome/UpdatedCovidDataVisualization/Story1",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://beeckcenter.georgetown.edu/person/sarah-schacht/",
+    "social":[
+      {
+        "name":"Justin",
+        "url":"https://www.linkedin.com/in/justin-lim-aa6030176/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Colten",
+        "url":"https://www.linkedin.com/in/colten-woo-54b66b194/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Savannah",
+        "url":"https://www.linkedin.com/in/savannah-umali-jepson/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Lufei",
+        "url":"https://www.linkedin.com/in/lufei-maggie-wang/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"Sarah",
+        "url":"https://www.linkedin.com/in/sarahschacht/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"We also asked what they need or would want to make their work easier.",
+    "education":[
+      {
+        "school":"Ecosystem Scan",
+        "degree":"SkoDawgs",
+        "graduated":"December 2020",
+        "description":"We conducted an ecosystem scan of all 50 US states and key informant interviews in order to understand what is happening inside public health departments."
+      },
+      {
+        "school":"Key Informant Interviews",
+        "degree":"SkoDawgs",
+        "graduated":"March 2021",
+        "description":"Conducted 16 interviews of state and local government's health department, aiming for public health IT folks. Gathered more information to run analysis on."
+      }
+    ],
+    "work":[
+      {
+        "company":"Challenges of Data Collection",
+        "title":"SkoDawgs",
+        "years":"December 2020 - April 2021",
+        "description":"During our interviews, we found out that the governments were mainly struggling with missing/in-complete data, systems being outdated, too large data volume, etc."
+      },
+      {
+        "company":"Challenges of Reporting",
+        "title":"SkoDawgs",
+        "years":"December 2020 - April 2021",
+        "description":"During our interviews, we also asked what challenges they were facing in terms of reporting, and they stated that they were struggling to align the values with local and federal entities, not having enough data, portraying the true meaning to the public, and more."
+      }
+    ],
+    "skills":[
+      {
+        "name":"More funding for data infrastructure/IT in healthcare",
+        "level":"80%"
+      },
+      {
+        "name":"Databases that can handle the volume",
+        "level":"60%"
+      },
+      {
+        "name":"More staff and skilled staff with training",
+        "level":"80%"
+      },
+      {
+        "name":"Time off",
+        "level":"25%"
+      },
+      {
+        "name":"Better data sharing agreements",
+        "level":"80%"
+      },
+      {
+        "name":"Federal government create standards",
+        "level":"80%"
+      },
+      {
+        "name":"Claer guidelines on HIPPA",
+        "level":"60%"
+      }
+    ]
+  }
+}
