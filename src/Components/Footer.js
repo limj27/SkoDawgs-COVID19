@@ -5,8 +5,14 @@ class Footer extends Component {
     if (!this.props.data) return null;
 
     const networks = this.props.data.social.map(function(network) {
+      const mystyle = {
+        color: "white",
+        fontSize: "50%",
+        fontFamily: "Arial"
+      };
       return (
         <li key={network.name}>
+          <p style={mystyle}>{network.name}</p>
           <a href={network.url}>
             <i className={network.className}></i>
           </a>
