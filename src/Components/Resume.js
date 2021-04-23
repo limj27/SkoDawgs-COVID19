@@ -94,6 +94,20 @@ class Resume extends Component {
             </div>
           </div>
         </div>
+
+        <div className="row education">
+          <div className="three columns header-col">
+            <h1>
+              <span>Presentation</span>
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">
+            <div className="row item">
+              <video src="images/zoom_1.mov" autoPlay="true"/>
+            </div>
+          </div>
+        </div>
       </section>
     );
   }
