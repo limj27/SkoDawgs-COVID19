@@ -30,6 +30,9 @@ class About extends Component {
                   </a>
                 </p>
               </div>
+              <h2>Project Information</h2>
+
+            <p>Our team set out to understand barriers to accurate, timely COVID-19 data publishing across the United States. Working with our sponsor ____, we investigated how local governments process and normalize a high volume of data as well as publish information to a variety of stakeholders. For our research, we conducted an ecosystem scan of all 50 US states and key informant interviews to understand what is happening inside public health departments. Using our findings, we produced reports highlighting shortcomings and obstacles in COVID-19 data reporting and provided recommendations. The report we created will hopefully be used to remedy existing problems and better prepare government bodies to collect and report data in future emergency situations.</p>
             </div>
           </div>
       </section>
